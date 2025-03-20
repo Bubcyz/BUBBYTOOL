@@ -6,7 +6,7 @@ pkg install git
 
 pkg install python-pip
 
-git clone https://github.com/sheeeshdatzkrazt/Sheeesh.git
+git clone https://github.com/Bubcyz/BUBBYTOOL.git
 
 cd Sheeesh
 
